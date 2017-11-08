@@ -1,0 +1,12 @@
+{
+  "title": "スマリザアドオン",
+  "name": "cors-smartreserve",
+  "version": "0.0.1",
+  "description": "GMOスマートリザーブで他サービスの管理画面と連携するためのアドオン",
+  "main": "index.js",
+  "author": "GMOコマース株式会社",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "test"
+}
