@@ -6,4 +6,4 @@
 * $ jpm xpi                    # xpi ファイルにビルド
 
 ### Chrome
-https://github.com/dongpv-vn/chrome-cors
+https://github.com/dongpv91/chrome-cors-addon
